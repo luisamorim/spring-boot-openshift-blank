@@ -1,6 +1,6 @@
 # Spring Boot Application for Openshift platform
 
-Acess: **https://openshift.redhat.com**
+Access: **https://openshift.redhat.com**
 
 Create Application 
 
